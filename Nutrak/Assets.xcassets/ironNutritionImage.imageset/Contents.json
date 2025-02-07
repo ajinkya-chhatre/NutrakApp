@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ironNutritionImage.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
